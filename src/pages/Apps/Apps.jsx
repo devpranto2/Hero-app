@@ -1,5 +1,6 @@
 import React, { Suspense } from 'react';
-import App from '../App/App';
+import App from '../App/Appp';
+import { Link } from 'react-router';
 
 const Apps = ({data}) => {
     // const [data,setdata]=useState([]);
@@ -24,7 +25,11 @@ const Apps = ({data}) => {
                 </div>
             </Suspense>
             <div className='text-center'>
-                <button className='btn mt-4 mb-4 text-center bg-gradient-to-r from-[#4B0082] to-[#9B30FF] text-white'>Show All</button>
+                <Link to={'/allapps'}>
+                
+                        <button className='btn mt-4 mb-4 text-center bg-gradient-to-r from-[#4B0082] to-[#9B30FF] text-white'>Show All</button>
+
+                </Link>
             </div>
         </div>
     );

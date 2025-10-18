@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=w240-h480-rw",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Spotify is a digital music streaming service offering millions of songs from artists all over the world. Users can create playlists, share them with friends, and discover curated content. The app allows offline listening, so music is available even without an internet connection. Spotify supports podcasts, including exclusive series, and features algorithm-driven recommendations. Users can explore genres, moods, and top charts. Collaborative playlists let friends contribute to a shared music list. The app syncs across devices seamlessly. Personalized daily mixes provide a tailored listening experience. Spotify Connect lets you play music on smart devices. Users can follow favorite artists and get notified of new releases. High-quality streaming ensures a premium audio experience. Lyrics are displayed in real-time on many tracks. Users can skip, replay, or repeat songs easily. It supports cross-platform playback. The free tier has ads, while Premium offers offline listening and no ads. Social sharing is built in. Spotify enhances discovery through podcast suggestions. The app tracks listening habits to improve recommendations. It remains lightweight despite its extensive library. Overall, it’s a complete hub for music and podcasts.",
+    "size": 90,
+    "reviews": "32M",
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "1.5M" },
+      { "name": "2 star", "count": "900K" },
+      { "name": "3 star", "count": "2M" },
+      { "name": "4 star", "count": "5M" },
+      { "name": "5 star", "count": "22M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo=w240-h480-rw",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 2,
+    "description": "Snapchat is a multimedia messaging app designed for real-time sharing. Users can send photos, videos, and messages called Snaps that disappear after being viewed. The app offers AR filters, lenses, and augmented reality effects to make interactions fun. Stories allow users to post content viewable for 24 hours. Snap Map lets friends see each other’s location if shared. Chat features include video calls and text messaging. The app includes Discover for news, entertainment, and exclusive content. Bitmoji avatars let users create personalized characters. Memories lets you save snaps privately. It provides privacy controls to limit who sees content. Snapchat Spotlight showcases trending short videos. Users can add friends via usernames, Snapcodes, or contacts. Filters adjust appearance and backgrounds creatively. Stickers, GIFs, and emojis enhance communication. The app supports live group chats and video conferencing. It has a vibrant global user community. Notifications alert users to new messages or stories. Snapchat supports creative tools like drawing and text overlays. The app is optimized for mobile social interactions. Overall, it’s a playful platform for instant sharing.",
+    "size": 110,
+    "reviews": "33M",
+    "ratingAvg": 4.2,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "2M" },
+      { "name": "2 star", "count": "1.3M" },
+      { "name": "3 star", "count": "3M" },
+      { "name": "4 star", "count": "6M" },
+      { "name": "5 star", "count": "21M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 3,
+    "description": "Telegram is a secure messaging app built around privacy and speed. It allows users to send texts, photos, videos, and files of any type. Messages can be sent in private chats or large groups. Secret chats provide end-to-end encryption. The app features cloud sync, so messages are accessible across devices. Users can create channels for broadcasting content to unlimited audiences. Bots enable automation and interactive experiences. It supports voice calls and video messaging. File sharing includes documents up to 2GB. Users can pin messages and save important content. Customizable themes allow a personalized interface. Telegram’s interface is lightweight and fast. Group management tools include admin controls and member restrictions. Stickers and GIFs enhance conversation fun. Polls, quizzes, and reactions keep communities engaged. Scheduled messages and silent notifications provide convenience. Search functionality helps find messages, channels, or groups quickly. Multi-account support is included. Telegram prioritizes security while offering a rich messaging experience. Its widely used for both personal communication and community management.",
+    "size": 85,
+    "reviews": "15M",
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "500K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "800K" },
+      { "name": "4 star", "count": "3M" },
+      { "name": "5 star", "count": "10M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ifCatuvGN6UAItrq2ApI0zFm7G1IOciP9jmQ_RXT7GReVVbpK0FEuZSy8sUecdw7hG0=w240-h480-rw",
+    "title": "Spotify Lite",
+    "companyName": "Spotify AB",
+    "id": 4,
+    "description": "Spotify Lite is a simplified version of Spotify designed for low-storage devices. It offers the core music streaming experience without taking up much space. Users can browse playlists, listen to favorite tracks, and discover new music. Offline listening is available for downloaded songs. The app has a smaller, faster interface optimized for low-end phones. Battery and data consumption are minimized. Spotify Lite allows following artists and creating playlists. It supports personalized recommendations and top charts. Songs can be skipped or repeated easily. The app still integrates podcasts for audio variety. Users can search by genre, mood, or artist. Collaborative playlists are supported. Regular Spotify features like Shuffle Play remain. Users can control streaming quality to save data. The lightweight app updates quickly and consumes minimal storage. Notifications alert users to new music. Social sharing is included. Spotify Lite runs efficiently in areas with slow internet. Its ideal for users who want Spotify on limited devices. Despite its simplicity, it retains a rich listening experience.",
+    "size": 15,
+    "reviews": "1.1M",
+    "ratingAvg": 4.3,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": "80K" },
+      { "name": "2 star", "count": "60K" },
+      { "name": "3 star", "count": "120K" },
+      { "name": "4 star", "count": "250K" },
+      { "name": "5 star", "count": "590K" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6CFQQ0b9r5fzF1v6f0gIirWsOGL7sGWkJifuUQxxhbCMcBx5aSG_cNXpjDKDn5c1jwjq=w240-h480-rw",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 5,
+    "description": "Pinterest is a visual discovery platform for ideas and inspiration. Users can browse millions of images across topics like home décor, fashion, recipes, and crafts. “Pins” let users save favorite content to personal boards. Users can create multiple boards for organized collections. The app uses smart recommendations to suggest content based on user interests. Pinterest supports sharing and collaboration on boards. Search functionality helps discover niche ideas. Users can follow other pinners for inspiration. Visual search allows identifying objects in images. Tutorials and guides help users replicate ideas. Trending topics highlight popular content globally. Users can shop for products directly from Pins. The interface is visually appealing and easy to navigate. Categories include DIY, travel, fitness, and more. Notifications alert users to new ideas or board activity. Pinterest fosters creativity and planning for personal projects. Images are optimized for mobile viewing. Pins can be commented on for engagement. Its widely used by hobbyists, professionals, and creatives alike. Pinterest blends social networking with idea discovery.",
+    "size": 95,
+    "reviews": "10M",
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "400K" },
+      { "name": "2 star", "count": "300K" },
+      { "name": "3 star", "count": "700K" },
+      { "name": "4 star", "count": "2.5M" },
+      { "name": "5 star", "count": "6.1M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/A-Rnrh0J7iKmABskTonqFAANRLGTGUg_nuE4PEMYwJavL3nPt5uWsU2WO_DSgV_mOOM=w240-h480-rw",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 6,
+    "description": "Twitter, now known as X, is a real-time social networking platform. Users can post “tweets” up to a character limit to share thoughts instantly. The platform allows following others to receive updates. Trending topics showcase popular discussions worldwide. Users can reply, retweet, or like tweets. Media attachments include images, videos, and polls. Direct messaging supports private conversations. Twitter X is used for news, networking, and marketing. Verified accounts provide authenticity for public figures. Hashtags organize conversations around specific topics. Lists help manage and group followed accounts. Users can pin important tweets to profiles. Notifications alert users to mentions and interactions. The platform supports threads for extended posts. Bookmarks allow saving tweets for later. Twitter X supports live video streaming. Accessibility features include alt text for images. Users can customize timelines with algorithmic or chronological views. Its widely used for global communication and discourse. X encourages concise, immediate content sharing.",
+    "size": 120,
+    "reviews": "25M",
+    "ratingAvg": 3.9,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "3M" },
+      { "name": "2 star", "count": "2M" },
+      { "name": "3 star", "count": "4M" },
+      { "name": "4 star", "count": "6M" },
+      { "name": "5 star", "count": "10M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/sUXm7uP_c8ysJqwOkbmIpBnDee_6lJJCPODRP4DOCuFWp9Gq-_X_oqY9NTJ2OIEGtQ=w240-h480-rw",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 7,
+    "description": "TikTok is a short-video platform that allows users to create, watch, and share content easily. It offers a wide variety of filters, effects, and music to enhance videos. The app features a personalized For You feed powered by AI recommendations. Users can follow creators to see their latest videos. TikTok supports duets, stitches, and collaborative content creation. Trending hashtags highlight popular challenges and memes. Video editing tools include trimming, speed adjustment, and transitions. The app allows adding text, stickers, and GIFs to videos. TikTok has live streaming capabilities for creators. Users can engage through likes, comments, and shares. Analytics are available for content performance tracking. It supports privacy settings, including account visibility and comment control. TikTok fosters creativity through challenges and trends. Music integration helps users sync clips to popular songs. Short-form content encourages high engagement and virality. Notifications keep users updated on new content. The app includes parental controls for younger users. TikTok continually updates features to keep the platform fresh. Overall, it’s a hub for entertainment, creativity, and social engagement.",
+    "size": 180,
+    "reviews": "55M",
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "4M" },
+      { "name": "2 star", "count": "2M" },
+      { "name": "3 star", "count": "5M" },
+      { "name": "4 star", "count": "10M" },
+      { "name": "5 star", "count": "34M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA=w240-h480-rw",
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "id": 8,
+    "description": "Duolingo is a language-learning app designed to make education fun and accessible. It supports dozens of languages, including popular and less-common options. Lessons are interactive and gamified to maintain motivation. Users progress through levels and earn rewards for consistent learning. Streaks encourage daily practice. The app includes speaking, listening, reading, and writing exercises. Duolingo provides bite-sized lessons for easy learning on the go. Timed challenges test skills under pressure. The app tracks progress and adapts lessons based on performance. Users can set goals for daily practice and fluency milestones. Duolingo supports offline learning for lessons downloaded in advance. The app includes podcasts and stories for immersive learning. Leaderboards foster friendly competition. Push notifications remind users to practice regularly. Hints and tips guide learners through difficult questions. The interface is colorful, simple, and intuitive. Duolingo encourages habit formation through gamification. Community forums allow learners to interact and share knowledge. Its suitable for beginners and intermediate learners. Overall, Duolingo combines technology, fun, and effective learning methods.",
+    "size": 80,
+    "reviews": "17M",
+    "ratingAvg": 4.7,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": "400K" },
+      { "name": "2 star", "count": "300K" },
+      { "name": "3 star", "count": "700K" },
+      { "name": "4 star", "count": "2M" },
+      { "name": "5 star", "count": "14M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NaFAbO7ExS4NRAvt2GYkNY6OQf9oVXwmdMTZzA6zrgjjSxhQuTCnjHyf7TgYcoSGqQ=w240-h480-rw",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 9,
+    "description": "Reddit is a community-driven platform where users share content, discuss topics, and ask questions. It hosts thousands of communities called subreddits, each focused on a specific interest. Users can post text, images, links, and videos. Upvotes and downvotes determine the visibility of posts. Comments allow in-depth discussion and interaction. Reddit supports moderation tools to manage community guidelines. AMAs (Ask Me Anything) allow users to interact with celebrities, experts, or notable figures. Reddit awards recognize high-quality posts and comments. Notifications alert users to replies, mentions, and community activity. Users can follow favorite subreddits to customize their feed. Reddit supports private messaging and chat rooms. The platform emphasizes anonymity while encouraging community engagement. Users can save posts, create collections, and subscribe to content. Reddit integrates multimedia content like GIFs, videos, and images. It supports search for topics, posts, or users. Customizable themes enhance readability. The app provides trending, popular, and new post filters. Reddit fosters knowledge sharing, entertainment, and social discussion. Its widely used for news, memes, and niche communities.",
+    "size": 60,
+    "reviews": "5M",
+    "ratingAvg": 4.1,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": "400K" },
+      { "name": "2 star", "count": "300K" },
+      { "name": "3 star", "count": "800K" },
+      { "name": "4 star", "count": "1.5M" },
+      { "name": "5 star", "count": "2M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ=w240-h480-rw",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 10,
+    "description": "Shazam is a music recognition app that identifies songs instantly. Users can tap the Shazam button to detect music playing nearby. The app provides details about the artist, album, and song title. Shazam links to streaming services like Spotify and Apple Music for immediate listening. Lyrics are displayed for many songs. Users can create a personal library of identified tracks. Offline mode lets users tag songs without an internet connection, syncing later. Shazam supports music discovery through curated playlists. It can identify TV shows, ads, or other audio media in some regions. Users can share discoveries with friends via social media. The app includes charts for trending music globally. Integration with voice assistants allows hands-free identification. Shazam has a simple, intuitive interface optimized for quick access. Notifications alert users when trending music is nearby. Users can explore new releases and artist pages. Shazam updates regularly with expanded music libraries. The app tracks user activity to improve recommendations. Its lightweight and fast, ideal for music lovers. Overall, Shazam bridges the gap between discovery and streaming seamlessly.",
+    "size": 25,
+    "reviews": "9M",
+    "ratingAvg": 4.8,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": "100K" },
+      { "name": "2 star", "count": "90K" },
+      { "name": "3 star", "count": "200K" },
+      { "name": "4 star", "count": "700K" },
+      { "name": "5 star", "count": "8M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tUZNUbnNGw8I6uLg8Zy2ZWbmSFuT5kK0dYA8tdqNmldlozNS_jSjDw5j2nElRsoTzQ=w240-h480-rw",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 11,
+    "description": "Canva is a graphic design app that makes creating visual content easy. Users can design social media posts, presentations, videos, and posters. The app provides templates for all kinds of creative projects. Drag-and-drop tools simplify adding text, images, and shapes. Canva includes a vast library of stock images, icons, and fonts. Users can collaborate on designs in real-time. The app supports resizing projects for different platforms. Advanced features include animation, video editing, and transitions. Canva allows exporting in multiple formats like PNG, JPG, and PDF. Users can apply filters and effects to enhance visuals. Templates cater to business, education, and personal use. Canva tracks design revisions and stores projects in the cloud. Brand kits help maintain visual consistency for companies. Users can create presentations with built-in slides and animations. Canva supports mobile-friendly editing for on-the-go creativity. Sharing options allow posting directly to social media. Notifications alert users to collaboration updates. The interface is user-friendly and intuitive. Overall, Canva empowers both beginners and professionals to produce polished designs.",
+    "size": 70,
+    "reviews": "14M",
+    "ratingAvg": 4.8,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": "200K" },
+      { "name": "2 star", "count": "150K" },
+      { "name": "3 star", "count": "300K" },
+      { "name": "4 star", "count": "2M" },
+      { "name": "5 star", "count": "11M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 12,
+    "description": "LinkedIn is a professional networking app connecting users worldwide. It allows users to create detailed profiles showcasing education, experience, and skills. Users can connect with colleagues, mentors, and industry professionals. Job listings and application tools help users find employment opportunities. The app provides personalized job recommendations. LinkedIn supports messaging for professional communication. Users can post updates, articles, and achievements to their network. Notifications alert users to profile views, connection requests, and messages. LinkedIn includes groups for discussions in specific industries or interests. Endorsements and recommendations add credibility to skills. Learning tools offer courses and certifications. Users can track analytics for posts and engagement. Recruiters can search and contact potential candidates. The app integrates with other professional tools for seamless workflow. LinkedIn supports content discovery through trending topics. Profiles can be optimized for visibility with SEO features. Premium subscription adds advanced insights and messaging capabilities. Users can follow companies to stay updated on news. Overall, LinkedIn is a hub for career growth and professional networking.",
+    "size": 150,
+    "reviews": "3M",
+    "ratingAvg": 4.2,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "400K" },
+      { "name": "2 star", "count": "250K" },
+      { "name": "3 star", "count": "500K" },
+      { "name": "4 star", "count": "900K" },
+      { "name": "5 star", "count": "1M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NafAciugdQk6L7_D0cmNq8cypX0pvA88h9DzlxIJQbPd3caZM3_S5-nZedHdnrcq_wCm=w240-h480-rw",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 13,
+    "description": "CapCut is a powerful video editing app designed for mobile creators. It allows users to trim, merge, and split video clips easily. The app includes transitions, filters, and special effects. Users can add music from a built-in library or their device. Text overlays, stickers, and animated titles enhance video creativity. CapCut supports speed adjustments and reverse playback. Advanced features include keyframe animation and chroma key (green screen). The app allows exporting videos in HD quality. Templates help beginners create professional-looking edits quickly. Users can add voiceovers and sound effects. CapCut supports aspect ratio changes for different social platforms. Collaboration is possible through shared projects. The interface is intuitive for both beginners and pros. Users can save drafts and resume editing later. AI tools assist with automatic captioning and effects. Notifications alert users to new templates and updates. It integrates with social media for easy sharing. CapCut’s library of effects is regularly updated. Overall, it’s a versatile tool for video creation and storytelling.",
+    "size": 190,
+    "reviews": "11M",
+    "ratingAvg": 4.5,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": "700K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "1M" },
+      { "name": "4 star", "count": "3M" },
+      { "name": "5 star", "count": "6M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/vaxxIC1qaXOd1q1hmL7c66N-Mp4LXuQIuBZGM0dPIbwmyWcJAXbhIIZ8hNBWvar54c_j=w240-h480-rw",
+    "title": "Notion",
+    "companyName": "Notion Labs, Inc.",
+    "id": 14,
+    "description": "Notion is an all-in-one workspace for personal and team productivity. Users can create notes, documents, databases, and task lists. It supports collaborative editing in real-time. Notion includes customizable templates for planning, project management, and personal use. Users can organize content with folders, tags, and links. The app allows embedding media such as images, videos, and PDFs. Notion supports calendars, kanban boards, and timelines. Users can set reminders and track tasks efficiently. Integration with third-party apps enhances workflow. Notes can include rich formatting, tables, and code snippets. Search functionality allows quick access to any content. Users can create private or shared pages. The app supports offline access for uninterrupted productivity. Notion allows multi-device syncing. Users can create databases for projects, contacts, or resources. Collaboration features include comments and mentions. Notifications keep teams updated on changes. The interface is clean and highly customizable. Notion is ideal for planning, journaling, and project management. Overall, it combines flexibility, collaboration, and organization in one app.",
+    "size": 60,
+    "reviews": "2.2M",
+    "ratingAvg": 4.6,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "1 star", "count": "100K" },
+      { "name": "2 star", "count": "80K" },
+      { "name": "3 star", "count": "200K" },
+      { "name": "4 star", "count": "500K" },
+      { "name": "5 star", "count": "1.3M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/2s8CbkJv3_SrQpreioheDR6tVDMRRVSuAi_DpSctxmZrB4bKS_gSBZSi4dxfDScCgQ=w240-h480-rw",
+    "title": "Spotify for Artists",
+    "companyName": "Spotify AB",
+    "id": 15,
+    "description": "Spotify for Artists helps musicians manage their profiles and track performance. Artists can access listener analytics and insights. The app allows uploading and managing music releases. Users can customize their artist page with photos and bios. Spotify for Artists provides data on audience demographics and streaming trends. Artists can promote songs through playlists and social media integration. The app tracks follower growth and engagement. It offers tips for improving content visibility. Notifications alert artists to milestone achievements. Users can submit music for playlist consideration. The interface is designed for ease of use and mobile accessibility. Spotify for Artists supports collaboration with team members. Artists can schedule releases and monitor performance. Insights include geographic data, top tracks, and listener habits. Users can connect with fans directly. The app integrates with other Spotify tools for promotion. Analytics reports can be exported for detailed review. Spotify for Artists enhances audience engagement and career growth. Overall, it’s a vital tool for professional music management.",
+    "size": 50,
+    "reviews": "200K",
+    "ratingAvg": 4.5,
+    "downloads": "10M+",
+    "ratings": [
+      { "name": "1 star", "count": "10K" },
+      { "name": "2 star", "count": "8K" },
+      { "name": "3 star", "count": "20K" },
+      { "name": "4 star", "count": "40K" },
+      { "name": "5 star", "count": "120K" }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/0c/3e/710c3eeb-884f-3d95-4dc0-5e8d5108b238/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/217x0w.webp",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 16,
+    "description": "Discord is a communication platform for communities, gamers, and teams. Users can join servers to chat via text, voice, or video. The app supports private messages and group chats. Users can create channels for specific topics or projects. Discord offers screen sharing and live streaming for real-time collaboration. Bots and integrations automate tasks and enhance engagement. Users can customize profiles with avatars and roles. Notifications alert users to mentions, messages, and server activity. Voice channels allow high-quality, low-latency communication. Discord supports emojis, GIFs, and reactions. The app includes moderation tools for community management. Users can create events and schedule meetings. Servers can be public or invite-only. Discord integrates with gaming and productivity apps. Search functionality helps locate messages, channels, or users. Users can pin important messages. Security and privacy settings ensure safe interactions. The interface is intuitive and adaptable. Discord fosters socialization, gaming, and team collaboration. Overall, its a versatile platform for communication and community building.",
+    "size": 160,
+    "reviews": "12M",
+    "ratingAvg": 4.5,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": "800K" },
+      { "name": "2 star", "count": "500K" },
+      { "name": "3 star", "count": "1M" },
+      { "name": "4 star", "count": "2.5M" },
+      { "name": "5 star", "count": "7M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA=w240-h480-rw",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 17,
+    "description": "Zoom is a video conferencing app used for meetings, webinars, and collaboration. Users can join or host meetings with high-quality audio and video. The app supports screen sharing and file sharing. Chat features allow text communication during meetings. Zoom offers scheduling tools and calendar integration. Participants can join via desktop, mobile, or web. Breakout rooms allow smaller group discussions. Zoom supports virtual backgrounds and video filters. Meeting recordings can be saved locally or to the cloud. Users can raise hands, react with emojis, or participate in polls. Security features include waiting rooms, passwords, and encryption. Zoom webinars enable large-audience broadcasts. Notifications alert participants to upcoming meetings. Users can collaborate with whiteboards and annotations. The app is optimized for low-bandwidth connections. Integration with productivity tools enhances workflow. Zoom supports multi-user collaboration and co-hosting. Users can manage participants easily with admin controls. Overall, its a reliable platform for communication and remote collaboration.",
+    "size": 130,
+    "reviews": "5.5M",
+    "ratingAvg": 4.2,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "600K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "900K" },
+      { "name": "4 star", "count": "1.5M" },
+      { "name": "5 star", "count": "2.1M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=w240-h480-rw",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 18,
+    "description": "Netflix is a streaming service for movies, TV shows, and exclusive content. Users can browse a vast library of genres and categories. Personalized recommendations suggest shows based on viewing history. The app allows downloading content for offline viewing. Multiple profiles can be created for family members. Netflix supports high-quality video and adaptive streaming. Users can rate content and add favorites to their watchlist. Parental controls ensure safe viewing for children. Subtitles and multiple audio options are available. The interface is sleek, simple, and user-friendly. Notifications alert users to new releases and trending shows. Users can continue watching across devices seamlessly. Netflix Originals offer exclusive series and movies. The app supports fast-forward, rewind, and playback speed adjustments. Search functionality helps discover content quickly. Users can share recommendations with friends. Netflix continuously updates its library with fresh content. Viewing history is tracked for personalized experience. Overall, Netflix is a go-to platform for entertainment worldwide.",
+    "size": 200,
+    "reviews": "30M",
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "2M" },
+      { "name": "2 star", "count": "1.5M" },
+      { "name": "3 star", "count": "3M" },
+      { "name": "4 star", "count": "8M" },
+      { "name": "5 star", "count": "15M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Xd1MS1QFXz_yy2SRpfx_DsMNla5ijTyCe5cYjR1bGbZt34aNQKGKYLlkdI2JMekAug=w240-h480-rw",
+    "title": "Spotify Kids",
+    "companyName": "Spotify AB",
+    "id": 19,
+    "description": "Spotify Kids is a child-friendly music app curated for younger audiences. It offers safe content, including songs, playlists, and stories. Parents can manage the app’s settings and content access. The app includes interactive features like sing-alongs and fun visuals. Music is categorized by age, mood, and interests. Spotify Kids provides offline listening for convenience. The interface is colorful, engaging, and easy to navigate. Notifications alert parents to app updates and features. Users can follow favorite artists or playlists. The app encourages creativity through music exploration. Recommendations are age-appropriate and curated. Songs are often accompanied by lyrics for interactive engagement. Spotify Kids minimizes ads and distractions. Educational content is included to combine learning and fun. Parents can set usage limits. The app syncs with Spotify accounts for family access. Music discovery fosters listening skills and enjoyment. Overall, Spotify Kids creates a safe, enjoyable musical environment for children.",
+    "size": 60,
+    "reviews": "500K",
+    "ratingAvg": 4.4,
+    "downloads": "10M+",
+    "ratings": [
+      { "name": "1 star", "count": "20K" },
+      { "name": "2 star", "count": "10K" },
+      { "name": "3 star", "count": "40K" },
+      { "name": "4 star", "count": "100K" },
+      { "name": "5 star", "count": "330K" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s=w240-h480-rw",
+    "title": "Amazon Prime Video",
+    "companyName": "Amazon Mobile LLC",
+    "id": 20,
+    "description": "Amazon Prime Video is a streaming platform for movies, TV shows, and original content. Users can browse an extensive library across genres. The app allows downloading content for offline viewing. Multiple profiles enable family-friendly access. Personalized recommendations suggest content based on viewing history. Users can watch in HD, 4K, and HDR quality. The app supports subtitles, multiple audio tracks, and accessibility features. Live channels and sports are available in some regions. Notifications alert users to new releases. The interface is smooth, intuitive, and user-friendly. Users can create watchlists and track recently watched content. Amazon Originals provide exclusive series and movies. Parental controls ensure age-appropriate viewing. The app integrates with Alexa and Fire devices. Users can rent or purchase additional movies outside of Prime. Search functionality allows easy content discovery. Prime Video supports casting to TVs and external devices. Reviews and ratings guide viewers in selecting content. Overall, its a complete entertainment hub with a global reach.",
+    "size": 150,
+    "reviews": "25M",
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "2M" },
+      { "name": "2 star", "count": "1M" },
+      { "name": "3 star", "count": "3M" },
+      { "name": "4 star", "count": "6M" },
+      { "name": "5 star", "count": "13M" }
+    ]
+  }
+]
