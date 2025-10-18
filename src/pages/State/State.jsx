@@ -2,7 +2,7 @@ import React from 'react';
 
 const State = () => {
     return (
-        <div className='bg-[#723ce7] p-9 text-white -mt-10'>
+        <div className='bg-[#723ce7] p-9 text-white -mt-10 py-12'>
             <h1 className='text-center font-bold text-lg md:text-4xl'>Trusted by Millions, Built for You</h1>
             <div className='w-10/12 mx-auto mt-7 md:flex justify-between'>
                 <div className='space-y-3 text-center'>

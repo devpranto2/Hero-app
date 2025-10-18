@@ -18,8 +18,8 @@ const Banner = () => {
                         <a className='btn p-6' href="https://play.google.com/"><img src={playstoreicon} alt="" />Google Play</a>
                         <a className='btn p-6' href="https://www.apple.com/app-store/"><img src={Appstoreicon} alt="" />App Store</a>
                     </div>
-                    <div className='mt-7'>
-                        <img src={heroImg} alt="" />
+                    <div className='mt-7 flex justify-center'>
+                        <img className='' src={heroImg} alt="" />
                     </div>
                 </div>
             </div>

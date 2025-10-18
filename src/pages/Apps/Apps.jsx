@@ -12,13 +12,13 @@ const Apps = ({data}) => {
         
     // },[])
     return (
-        <div className='bg-gray-100 pt-10'>
+        <div className='bg-gray-100 p-10'>
             <div className='text-center mt-10'>
                 <h2 className='text-3xl font-bold'>Trending Apps </h2>
                 <p className='md:font-semibold text-gray-500 p-2'>Explore All Trending Apps on the Market developed by us</p>
             </div>
             <Suspense fallback={<span>Loading</span>} >
-                <div className='grid md:grid-cols-3 lg:grid-cols-4 gap-3 mt-10 w-11/12 mx-auto'>
+                <div className='grid md:grid-cols-3 lg:grid-cols-4 gap-3 mt-10 w-9/12 mx-auto'>
                     {
                     data.map((singleApp=><App key={singleApp.id} singleApp={singleApp}></App>))
                 }

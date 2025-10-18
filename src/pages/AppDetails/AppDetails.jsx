@@ -31,6 +31,7 @@ const AppDetails = () => {
 
     return (
         <div className='bg-gray-200'>
+            <div className='w-10/12 mx-auto'>
             <div className=' md:flex p-10'>
                 <div className="flex-1">
                     <img src={image} alt="" />
@@ -44,33 +45,33 @@ const AppDetails = () => {
                     <div className='flex gap-8'>
                         <div className='md:mr-5'>
                             <MdOutlineFileDownload className='text-4xl text-green-500' />
-                            <p >Downloads</p>
+                            <p className='text-[12px] md:text-[18px]'>Downloads</p>
                             <h2 className='text-4xl font-semibold'>{downloads}</h2>
                         </div>
                         <div className='md:mr-5'>
                             <IoStar className='text-4xl text-[#ff8811]' />
-                            <p>Avarage ratings</p>
+                        <p className='text-[12px] md:text-[18px]'>Avarage ratings</p>
                             <h2 className='text-4xl font-semibold'>{ratingAvg}</h2>
                         </div>
                         <div>
                             <MdFeedback className='text-4xl text-purple-500' />
-                            <p>Total Reviews</p>
+                            <p className='text-[12px] md:text-[18px]'>Total Reviews</p>
                             <h2 className='text-4xl font-semibold'>{reviews}</h2>
 
                         </div>
                     </div>
-                    <button className='btn text-lg mt-5 p-6 bg-green-500 text-white'>Install Now ({size} MB)</button>
+                    <button className='mt-5 btn btn-xs p-6 text-lg sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl bg-green-500 text-white'>Install Now ({size} MB)</button>
                 </div>
             </div>
             <div className=" p-6 ">
                 <h2 className="text-2xl font-bold  text-center text-gray-700">Rating</h2>
 
-                <div className="h-80">
+                <div className="h-60 md:h-80">
                     <ResponsiveContainer width="100%" height="100%">
                         <BarChart
                             data={chartData}
                             layout="vertical"
-                            margin={{ top: 5, right: 30, left: 40, bottom: 5 }}
+                            margin={{ top: 5, right: 30, left: 0, bottom: 5 }}
                         >
                             <CartesianGrid strokeDasharray="3 3" vertical={false} />
                             <XAxis type="number" />
@@ -97,6 +98,7 @@ const AppDetails = () => {
                 <h1 className='text-3xl font-semibold'>Description</h1>
                 <p className='mt-4 text-[19px] text-gray-600'>{description}</p>
             </div>
+        </div>
         </div>
     );
 };
