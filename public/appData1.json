@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=w240-h480-rw",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Stream millions of songs and podcasts, discover playlists, and listen offline anytime.",
+    "size": 90,
+    "reviews": "32M",
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "1.5M" },
+      { "name": "2 star", "count": "900K" },
+      { "name": "3 star", "count": "2M" },
+      { "name": "4 star", "count": "5M" },
+      { "name": "5 star", "count": "22M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo=w240-h480-rw",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 2,
+    "description": "Share moments instantly with friends and enjoy filters, lenses, and fun camera effects.",
+    "size": 110,
+    "reviews": "33M",
+    "ratingAvg": 4.2,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "2M" },
+      { "name": "2 star", "count": "1.3M" },
+      { "name": "3 star", "count": "3M" },
+      { "name": "4 star", "count": "6M" },
+      { "name": "5 star", "count": "21M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 3,
+    "description": "Fast, secure, and private messaging app with cloud sync, large groups, and file sharing.",
+    "size": 85,
+    "reviews": "15M",
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "500K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "800K" },
+      { "name": "4 star", "count": "3M" },
+      { "name": "5 star", "count": "10M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ifCatuvGN6UAItrq2ApI0zFm7G1IOciP9jmQ_RXT7GReVVbpK0FEuZSy8sUecdw7hG0=w240-h480-rw",
+    "title": "Spotify Lite",
+    "companyName": "Spotify AB",
+    "id": 4,
+    "description": "A lighter version of Spotify for low storage devices with faster performance.",
+    "size": 15,
+    "reviews": "1.1M",
+    "ratingAvg": 4.3,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": "80K" },
+      { "name": "2 star", "count": "60K" },
+      { "name": "3 star", "count": "120K" },
+      { "name": "4 star", "count": "250K" },
+      { "name": "5 star", "count": "590K" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6CFQQ0b9r5fzF1v6f0gIirWsOGL7sGWkJifuUQxxhbCMcBx5aSG_cNXpjDKDn5c1jwjq=w240-h480-rw",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 5,
+    "description": "Discover ideas for recipes, home décor, fashion, and inspiration all in one place.",
+    "size": 95,
+    "reviews": "10M",
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "400K" },
+      { "name": "2 star", "count": "300K" },
+      { "name": "3 star", "count": "700K" },
+      { "name": "4 star", "count": "2.5M" },
+      { "name": "5 star", "count": "6.1M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/A-Rnrh0J7iKmABskTonqFAANRLGTGUg_nuE4PEMYwJavL3nPt5uWsU2WO_DSgV_mOOM=w240-h480-rw",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 6,
+    "description": "Connect with the world in real-time — post, follow, and explore trending topics.",
+    "size": 120,
+    "reviews": "25M",
+    "ratingAvg": 3.9,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "3M" },
+      { "name": "2 star", "count": "2M" },
+      { "name": "3 star", "count": "4M" },
+      { "name": "4 star", "count": "6M" },
+      { "name": "5 star", "count": "10M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/sUXm7uP_c8ysJqwOkbmIpBnDee_6lJJCPODRP4DOCuFWp9Gq-_X_oqY9NTJ2OIEGtQ=w240-h480-rw",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 7,
+    "description": "Create, watch, and share short videos with music, trends, and viral challenges.",
+    "size": 180,
+    "reviews": "55M",
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "4M" },
+      { "name": "2 star", "count": "2M" },
+      { "name": "3 star", "count": "5M" },
+      { "name": "4 star", "count": "10M" },
+      { "name": "5 star", "count": "34M" }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA=w240-h480-rw",
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "id": 8,
+    "description": "Learn languages for free with fun lessons, streaks, and challenges.",
+    "size": 80,
+    "reviews": "17M",
+    "ratingAvg": 4.7,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": "400K" },
+      { "name": "2 star", "count": "300K" },
+      { "name": "3 star", "count": "700K" },
+      { "name": "4 star", "count": "2M" },
+      { "name": "5 star", "count": "14M" }
+    ]
+  }
+]
