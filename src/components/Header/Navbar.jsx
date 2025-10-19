@@ -15,7 +15,7 @@ const Navbar = () => {
         className={({isActive})=>isActive?"text-purple-700":"text-gray-500" }>
             <li className='mr-3  text-lg font-bold'>Apps</li>
          </NavLink>
-        <NavLink to={'/installation'}
+        <NavLink to={'/installedApps'}
         className={({isActive})=>isActive?"text-purple-700":"text-gray-500" }>
             <li className='mr-3  text-lg font-bold'>Installation</li>
          </NavLink>

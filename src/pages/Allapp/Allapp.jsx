@@ -3,7 +3,7 @@ import { FiDownload } from "react-icons/fi";
 import { FaStar } from "react-icons/fa";
 import { Link } from 'react-router';
 const Allapp = ({ singleAllApp }) => {
-    console.log(singleAllApp)
+    // console.log(singleAllApp)
     const { title, image, ratingAvg, downloads,id } = singleAllApp;
     return (
         <Link to={`/appdetails/${id}`}>
