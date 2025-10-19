@@ -66,9 +66,9 @@ const InstalledApps = () => {
                 </div>
             </div>
 
-            <div className="w-full mx-auto gap-5 mt-6 flex flex-col">
+            <div className="w-full mx-auto gap-5 mt-6 mb-90 flex flex-col">
                 {installedApps.length === 0 ? (
-                    <p className="text-center text-gray-500 text-lg">No apps installed yet.</p>
+                    <p className="text-center text-gray-500 text-2xl font-semibold">No apps installed yet.</p>
                 ) : (
                     installedApps.map(app => {
                         const { id, title, image, downloads, ratingAvg } = app;
