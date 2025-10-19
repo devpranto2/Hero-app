@@ -6,11 +6,17 @@ import { MdFeedback } from "react-icons/md";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer } from "recharts";
 import toast from "react-hot-toast";
 import { addDataToDB, getAppData } from '../../Utility/AddToDB';
+import Spinner from '../../components/Spinner/Spinner';
 
 const AppDetails = () => {
     const { id } = useParams();
     const appId = parseInt(id);
     const data = useLoaderData();
+
+
+
+
+    
 
     const singleAppDetail = data.find(app => app.id === appId);
     const { companyName, description, downloads, image, ratingAvg, ratings, reviews, size, title } = singleAppDetail;
@@ -65,7 +71,7 @@ const AppDetails = () => {
     return (
         <div className='bg-gray-200'>
             <div className='w-10/12 mx-auto'>
-                <div className='md:flex p-10'>
+                <div className='md:flex gap-5 p-10'>
                     <div className="flex-1">
                         <img src={image} alt={title} />
                     </div>
